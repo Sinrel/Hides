@@ -1,0 +1,34 @@
+Copyright (c) 2012, SiNReL Company 
+
+ƒанное програмное обеспечение распростран€етс€ по принципу " ј  ≈—“№", без каких-либо €вных или не €вных гарантий. ¬ любом случае авторы несут ответственность за любые убытки, возникшие в результате использовани€ данного программного обеспечени€. 
+
+ѕредоставл€етс€ разрешение на любое использование этого программного обеспечени€ дл€ любых целей, включа€ коммерческие приложени€, а также на изменение и свободное распространение при условии соблюдени€ следующих ограничений: 
+
+1.ѕроисхождение данного программного обеспечение не должно быть искажено, вы не должны утверждать, что вы написали оригинальное программное обеспечение. ѕри использовании этого программного обеспечени€ в продукте, указание в документации к продукту автора программного обеспечени€ не требуетс€ но приветствуетс€. 
+
+2.»змененные версии исходного кода должны быть четко обозначены как таковые, и не должно быть искажени€ авторства оригинального программного обеспечени€. 
+
+3.ƒанное уведомление не должно быть удалено или потер€но из любого источника распространени€.
+
+--------------------------------------------------
+
+Copyright (c) 2012, SiNReL Company
+
+This software is provided 'as-is', without any express or implied
+ warranty. In no event will the authors be held liable for any damages
+ arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+ including commercial applications, and to alter it and redistribute it
+ freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not
+ claim that you wrote the original software. If you use this software
+ in a product, an acknowledgment in the product documentation would be
+ appreciated but is not required.
+
+2. Altered source versions must be plainly marked as such, and must not be
+ misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source
+ distribution.
