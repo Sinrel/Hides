@@ -6,6 +6,7 @@ import java.util.logging.Logger;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
@@ -33,7 +34,7 @@ public class Hides extends JavaPlugin implements Listener{
 		this.saveConfig();
 	}
 	
-	@EventHandler
+	@EventHandler(priority = EventPriority.LOWEST, ignoreCancelled = true)
 	public void onJoin(PlayerJoinEvent e){
 		log.info(" "+this.getConfig().getBoolean("enabled"));
 		
@@ -42,7 +43,7 @@ public class Hides extends JavaPlugin implements Listener{
 		}
 	}
 	
-	@EventHandler
+	@EventHandler(priority = EventPriority.LOWEST, ignoreCancelled = true)
 	public void onQuit(PlayerQuitEvent e){
 		if(this.getConfig().getBoolean("enabled")){
 			e.setQuitMessage(null);
