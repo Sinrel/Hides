@@ -20,11 +20,6 @@ Hides это плагин, который позволяет отключить 
 * Есть идеи?
 
 ## Hides - Disabling join/quit messages ##
+
 Coming soon
-
-## ToDo: ##
-
-* ???
-
-* Any ideas?
  
