@@ -1,4 +1,4 @@
-package com.SiNReL.Hides;
+package org.sinrel.hides;
 
 import java.io.File;
 import java.util.logging.Logger;
@@ -26,9 +26,7 @@ public class Hides extends JavaPlugin implements Listener{
 		Bukkit.getPluginManager().registerEvents(this,this);
 	}
 	
-	private void createConfig(){
-		this.getConfig().options().header("Copyright (c) 2012, SiNReL Company");
-		
+	private void createConfig(){		
 		this.getConfig().set("enabled", true);
 		
 		this.saveConfig();
@@ -57,4 +55,5 @@ public class Hides extends JavaPlugin implements Listener{
 	public void onDisable(){
 		log.info("["+this.getDescription().getName()+"] Hides version "+this.getDescription().getVersion()+" disabled");
 	}
+	
 }

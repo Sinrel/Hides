@@ -1,4 +1,4 @@
-﻿Copyright (c) 2012, SiNReL Company 
+﻿Copyright (c) 2012, Sinrel Group
 
 Данное програмное обеспечение распространяется по принципу "КАК ЕСТЬ", без каких-либо явных или не явных гарантий. В любом случае авторы несут ответственность за любые убытки, возникшие в результате использования данного программного обеспечения. 
 
@@ -12,7 +12,7 @@
 
 --------------------------------------------------
 
-Copyright (c) 2012, SiNReL Company
+Copyright (c) 2012, Sinrel Group
 
 This software is provided 'as-is', without any express or implied
  warranty. In no event will the authors be held liable for any damages
